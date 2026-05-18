@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\helt0\\source\\repos\\attendance\\attendance\\attendance.csproj",
+      "projectUniqueName": "C:\\Users\\helt0\\OneDrive\\Documents\\My School Works\\School Attendance\\attendance\\attendance.csproj",
       "projectName": "attendance",
-      "projectPath": "C:\\Users\\helt0\\source\\repos\\attendance\\attendance\\attendance.csproj",
+      "projectPath": "C:\\Users\\helt0\\OneDrive\\Documents\\My School Works\\School Attendance\\attendance\\attendance.csproj",
       "packagesPath": "C:\\Users\\helt0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\helt0\\source\\repos\\attendance\\attendance\\obj\\",
+      "outputPath": "C:\\Users\\helt0\\OneDrive\\Documents\\My School Works\\School Attendance\\attendance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\helt0\\AppData\\Roaming\\NuGet\\NuGet.Config",
